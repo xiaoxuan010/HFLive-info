@@ -8,7 +8,7 @@ subtitle: '信息发布站'
 description: '本网站为华附直播团队内部信息通知网站'
 keywords:
 author: xiaoxuan010
-language: zh_cn
+language: zh_CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -78,7 +78,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: YYYY.MM.DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
