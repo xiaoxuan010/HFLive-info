@@ -102,4 +102,6 @@ theme: frame
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: git@github.com:xiaoxuan010/xiaoxuan010.github.io.git
+  branch: master
