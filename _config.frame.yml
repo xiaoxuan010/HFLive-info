@@ -10,8 +10,9 @@ logo_image:
   image_path: /logo.png # path to your logo image
 
 menu:
-  通告: /archives/
+  主页: /
   bilibili: https://space.bilibili.com/324280848
+  技术指南: https://info.xiaoxuan010.top/Site-HFLive13.0-TechDoc/
 
 # stylesheets loaded in the <head>
 stylesheets:
